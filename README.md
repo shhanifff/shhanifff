@@ -1,69 +1,51 @@
-Hi, I'm Mohammed Shanif
-MERN Stack Developer | Full Stack Enthusiast | Passionate About Scalable Web Applications
+# 👋 Hi, I'm Mohammed Shanif  
 
-I’m a MERN Stack Developer skilled in building secure, scalable, and production-ready web applications using React.js, Node.js, Express.js, and MongoDB. With experience in real-time features, authentication, and payment integrations, I enjoy turning ideas into impactful digital products.
+### 🚀 MERN Stack Developer (Fresher) | Full Stack Enthusiast | Passionate About Web Development  
 
-🔧 Tech Stack
+I’m a **fresher MERN Stack Developer** skilled in **React.js, Node.js, Express.js, and MongoDB**.  
+I love building **real-world projects** that show how technology can solve problems.  
+Right now, I’m focused on improving my **backend APIs, database design, and full-stack app performance**.  
 
-Frontend
-React.js · JavaScript (ES6+) · TypeScript · Redux · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+---
 
-Backend
-Node.js · Express.js · RESTful APIs · JWT · OAuth 2.0 · Socket.IO
+## 🔧 Tech Stack  
 
-Database
-MongoDB · Mongoose · PostgreSQL
+**Frontend:** React.js · JavaScript (ES6+) · TypeScript · Next.js · Redux · Tailwind CSS · Bootstrap  
+**Backend:** Node.js · Express.js · RESTful APIs · JWT · OAuth 2.0 · Socket.IO  
+**Database:** MongoDB · Mongoose · PostgreSQL  
+**Tools:** Git · GitHub · Postman · Docker · Vercel · Render  
+**Integrations:** Stripe · Razorpay · Nodemailer  
 
-Tools & DevOps
-Git · GitHub · GitHub Actions · Docker · Postman · Vercel · Render · VS Code
+---
 
-Auth & Payments
-JWT · Google OAuth · OTP Authentication · Stripe · Razorpay · Nodemailer
+## 💼 Projects  
 
-💼 Featured Projects
-🏠 Estate – Real Estate Web App (MERN + RTK Query + Stripe)
+### 🏠 **Estate – Real Estate Web App**  
+🔗 [GitHub Repo](https://github.com/eestate/eestate/tree/dev)  
+- MERN stack app with JWT/OAuth auth, real-time chat, and Stripe payments.  
 
-🔗 GitHub Repo
+### 🎟️ **Ticketa – Event Ticket Booking**  
+🔗 [GitHub Repo](https://github.com/shhanifff/ticketa-Event-Mangment)  
+- Event booking with Razorpay, QR code tickets, and live notifications.  
 
-Full-stack real estate application with secure auth (JWT, OAuth, OTP).
+### 🛋️ **ZENT – E-commerce App**  
+🔗 [GitHub Repo](https://github.com/shhanifff/ZENT-server) | 🔴 [Live Demo](https://zent-client.vercel.app/)  
+- Furniture e-commerce with cart, wishlist, and full order lifecycle.  
 
-Real-time chat, notifications, and email alerts via Socket.IO + Nodemailer.
+---
 
-Payments via Stripe; admin dashboard for properties, bookings, and users.
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shhanifff&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhanifff&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
-🎟️ Ticketa – Event Ticket Booking Platform
+---
 
-🔗 GitHub Repo
+## 📫 Connect With Me  
+- 📧 **Email:** [mohammedshanifcc@gmail.com](mailto:mohammedshanifcc@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/mohammed-shanif-cc](https://www.linkedin.com/in/mohammed-shanif-cc/)  
 
-Event booking platform with React.js + Tailwind CSS.
+---
 
-Backend with Node.js, Express.js, MongoDB.
-
-Secure authentication (JWT, Google OAuth, OTP).
-
-Real-time notifications + QR code ticket verification.
-
-Razorpay integration for online payments.
-
-🛋️ ZENT – E-commerce Furniture App
-
-🔗 GitHub Repo
- | 🔴 Live Demo
-
-Full MERN e-commerce app with wishlist, filtering, and cart.
-
-Role-based access control (RBAC) & secure JWT authentication.
-
-Admin dashboard with real-time inventory + order tracking.
-
-Razorpay payments + complete order lifecycle support.
-
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shhanifff&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhanifff&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
-📫 Connect With Me
-
-📧 Email: mohammedshanifcc@gmail.com
-
-💼 LinkedIn: linkedin.com/in/mohammed-shanif-cc
-
-🌐 Portfolio: Portfolio Website
+### ⚡ I may be a fresher, but I’m eager to learn, grow, and contribute to impactful projects!
