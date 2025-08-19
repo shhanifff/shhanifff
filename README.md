@@ -1,101 +1,69 @@
-# Hi, I'm Mohammed Shanif
+Hi, I'm Mohammed Shanif
+MERN Stack Developer | Full Stack Enthusiast | Passionate About Scalable Web Applications
 
-###  MERN Stack Developer | Full Stack Enthusiast | Passionate about Scalable Web Apps
+I’m a MERN Stack Developer skilled in building secure, scalable, and production-ready web applications using React.js, Node.js, Express.js, and MongoDB. With experience in real-time features, authentication, and payment integrations, I enjoy turning ideas into impactful digital products.
 
-I'm a dedicated MERN Stack Developer with experience building production-ready, full-stack web applications using React.js, Node.js, MongoDB, and Express.js. I focus on delivering secure, scalable, and real-time web experiences, and I'm always eager to learn and grow.
+🔧 Tech Stack
 
----
+Frontend
+React.js · JavaScript (ES6+) · TypeScript · Redux · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap
 
-##  Tech Stack
+Backend
+Node.js · Express.js · RESTful APIs · JWT · OAuth 2.0 · Socket.IO
 
-###  Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
-</p>
+Database
+MongoDB · Mongoose · PostgreSQL
 
-###  Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</p>
+Tools & DevOps
+Git · GitHub · GitHub Actions · Docker · Postman · Vercel · Render · VS Code
 
-###  Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
+Auth & Payments
+JWT · Google OAuth · OTP Authentication · Stripe · Razorpay · Nodemailer
 
-###  Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+💼 Featured Projects
+🏠 Estate – Real Estate Web App (MERN + RTK Query + Stripe)
 
-###  Auth & Payments
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Razorpay_logo.png" alt="Razorpay" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/google-logo.png" alt="Google OAuth" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" alt="JWT Auth" width="40" height="40"/>
-</p>
+🔗 GitHub Repo
 
+Full-stack real estate application with secure auth (JWT, OAuth, OTP).
 
+Real-time chat, notifications, and email alerts via Socket.IO + Nodemailer.
 
-## 💼 Projects
+Payments via Stripe; admin dashboard for properties, bookings, and users.
 
-###  **Estate** – Real Estate Web App (MERN + RTK Query + Stripe)
-> A scalable real estate application with real-time features, secure payments, and admin/user role-based access.
+🎟️ Ticketa – Event Ticket Booking Platform
 
-- Full MERN Stack with Tailwind CSS for UI and RTK Query for state management.
-- Auth: JWT, Google OAuth 2.0, OTP Verification.
-- Real-Time: Live Chat, Notifications via Socket.IO, Email Alerts using Nodemailer.
-- Payments: Stripe gateway for subscriptions.
-- Admin Panel: Manage users, properties, agents, bookings, and messages.
+🔗 GitHub Repo
 
-🔗 **GitHub:** [Estate Repo](https://github.com/eestate/eestate/tree/dev)  
+Event booking platform with React.js + Tailwind CSS.
 
----
+Backend with Node.js, Express.js, MongoDB.
 
-###  **Ticketa** – Event Ticket Booking Platform
-> A secure and responsive platform for booking events with real-time filtering, admin control, and online payments.
+Secure authentication (JWT, Google OAuth, OTP).
 
-- Frontend: React.js, Tailwind, Context API.
-- Backend: Node.js, Express.js, MongoDB, REST APIs.
-- Auth: JWT, Google OAuth, OTP.
-- Admin Dashboard: Manage users, bookings, events, and reviews.
-- Payments: Razorpay integration + QR code ticket confirmation.
-- Real-Time: Notifications using Socket.IO.
+Real-time notifications + QR code ticket verification.
 
-🔗 **GitHub:** [Ticketa Repo](https://github.com/shhanifff/ticketa-Event-Mangment)  
+Razorpay integration for online payments.
 
----
+🛋️ ZENT – E-commerce Furniture App
 
-###  **ZENT** – E-commerce Furniture App
-> A fully functional furniture e-commerce app with authentication, cart, payments, and real-time admin dashboard.
+🔗 GitHub Repo
+ | 🔴 Live Demo
 
-- React.js + Tailwind CSS frontend with advanced filtering and wishlist.
-- Backend: Express.js, MongoDB, Mongoose, JWT, RBAC.
-- Admin Dashboard: Real-time inventory, orders, and status tracking.
-- Payment: Razorpay integration and full order lifecycle support.
+Full MERN e-commerce app with wishlist, filtering, and cart.
 
-🔗 **GitHub:** [ZENT Repo](https://github.com/shhanifff/ZENT-server)  
-🔴 **Live:** [zent-live-url.com](https://zent-client.vercel.app/)
+Role-based access control (RBAC) & secure JWT authentication.
 
----
+Admin dashboard with real-time inventory + order tracking.
 
-##  Contact Me
+Razorpay payments + complete order lifecycle support.
 
-- 📧 Email: mohammedshanif@gmail.com.com  
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/mohammed-shanif-cc/)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+📊 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shhanifff&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhanifff&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+📫 Connect With Me
 
----
+📧 Email: mohammedshanifcc@gmail.com
 
-### ⚡ Let's build something impactful together!
+💼 LinkedIn: linkedin.com/in/mohammed-shanif-cc
+
+🌐 Portfolio: Portfolio Website
