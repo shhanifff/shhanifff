@@ -45,7 +45,7 @@ Furniture e-commerce platform with product listing, cart, wishlist, secure check
 Premium, responsive landing intro page focused on modern UI/UX, smooth layout, and brand-style presentation.  
 **Tech:** Next.js, React.js, Tailwind CSS  
 🔗 GitHub: [https://github.com/your-repo-link](https://github.com/shhanifff/ferrari) <br/>
-🔴 Live: [https://zent-client.vercel.app/](https://ferrari-beta.vercel.app/)
+🔴 Live: [https://zent-client.vercel.app](https://ferrari-beta.vercel.app/)
 
 
   ## 💰 You can help me by Donating
