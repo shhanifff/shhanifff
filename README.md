@@ -71,10 +71,6 @@ Passionate about writing clean, maintainable code, improving application perform
 🔗 GitHub: [https://github.com/your-repo-link](https://github.com/shhanifff/ferrari) <br/>
 🔴 Live: [https://ferrari-beta.vercel.app](https://ferrari-beta.vercel.app/)
 
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shanifcc) 
-
   ### Open to Full-Time Opportunities | Open to Relocation UAE 
 
   
