@@ -22,6 +22,38 @@ Passionate about writing clean, maintainable code, improving application perform
 ---
 [![](https://visitcount.itsvg.in/api?id=shhanifff&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 💼 Professional Experience
+
+## Full Stack Developer | TrigAds Digital Solutions
+**Jan 2026 – Present**
+
+- Delivered **4+ production-ready web applications** across **Healthcare, E-Commerce, and EdTech** domains.
+- Developed scalable **MERN Stack** applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**.
+- Improved **API performance by 30%** through backend optimization, database query tuning, and efficient REST API design.
+- Built secure applications with **JWT Authentication, Role-Based Access Control (RBAC), Payment Gateway Integration (Razorpay & Stripe), and REST APIs**.
+- Collaborated with cross-functional teams using **Agile/Scrum** methodologies to deliver scalable business solutions.
+
+---
+
+## Part-Time MERN Stack Developer
+**2025 – Present**
+
+- Delivered **2+ client projects** from **Figma UI designs to production deployment**.
+- Developed responsive, SEO-friendly web applications using **React.js, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB**.
+- Implemented **authentication, payment gateway integration, business workflows, and RESTful APIs**.
+- Optimized application performance, responsiveness, and user experience for production environments.
+- Managed deployment, debugging, maintenance, and client feature enhancements.
+
+---
+
+## MERN Stack Developer Intern | Bridgeon Solutions LLP
+**Aug 2024 – Nov 2025 (1 Year 3 Months)**
+
+- Contributed to **production-grade full-stack web applications** across multiple client projects.
+- Developed frontend and backend features using **React.js, Node.js, Express.js, MongoDB, and JavaScript (ES6+)**.
+- Worked on **REST API integration, authentication, database management, debugging, and bug fixing**.
+- Collaborated with senior developers in an **Agile development environment** to deliver high-quality software.
+- Improved application stability through testing, issue resolution, and code optimization.
 
 ## Featured Projects
 
