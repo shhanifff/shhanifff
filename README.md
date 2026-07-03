@@ -26,7 +26,7 @@ Passionate about writing clean, maintainable code, improving application perform
 ## Featured Projects
 
 ### Clinibook – Hospital Management System
-- MERN stack real estate platform featuring user authentication, role-based access, real-time chat, admin dashboard, and Stripe payment integration.  
+• MERN stack real estate platform featuring user authentication, role-based access, real-time chat, admin dashboard, and Stripe payment integration.  
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Stripe  
 🔗 GitHub: [https://github.com/your-repo-link](https://github.com/eestate/eestate/tree/main)
 
