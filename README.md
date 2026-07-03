@@ -49,7 +49,7 @@ Passionate about writing clean, maintainable code, improving application perform
 • Built a full-stack event booking platform with secure authentication and role-based access.<br><br>
 • Integrated Razorpay payments, QR-based ticket verification, and real-time notifications using Socket.IO.<br><br>
 • Developed admin dashboards for managing events, bookings, and users.<br><br>
-**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.IO • Razorpay
+**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.IO • Razorpay<br><br>
 🔗 GitHub: [https://github.com/shhanifff/ticketa-Event-Mangment](https://github.com/shhanifff/ticketa-Event-Mangment)  
 🔴 Live: [https://ticketa-frontend.vercel.app/](https://ticketa-frontend.vercel.app/)
 
