@@ -30,7 +30,7 @@ Passionate about writing clean, maintainable code, improving application perform
 • Built secure REST APIs with JWT Authentication and Role-Based Access Control (RBAC).<br><br>
 • Improved backend performance and reduced API response time by approximately 20%.<br><br>
 • Designed responsive dashboards and streamlined hospital operations.<br><br>
-**Tech:** Next.js, Node.js, Express.js, MongoDB, Socket.IO, Chart.js  
+**Tech:** Next.js, Node.js, Express.js, MongoDB, Socket.IO, Chart.js  <br><br>
 🔴 Live: [https://portal.fathimahealthcare.in](https://portal.fathimahealthcare.in/)
 
 ---
@@ -45,6 +45,15 @@ Passionate about writing clean, maintainable code, improving application perform
 ---
 
 
+### TOPNOTCH – E-Commerce Platform
+• Developed a full-stack e-commerce platform with authentication, product management, order processing, and Admin Dashboard.<br><br>
+• Implemented REST APIs, JWT Authentication, Razorpay payment integration, and responsive UI.<br><br>
+• Optimized application performance for a seamless shopping experience.<br><br>
+**Tech:** Next.js • Node.js • Express.js • MongoDB<br><br>   
+🔴 Live: [https://topnotch-two.vercel.app/](https://topnotch-two.vercel.app/)
+
+---
+
 ### Ticketa – Event Booking Platform
 • Built a full-stack event booking platform with secure authentication and role-based access.<br><br>
 • Integrated Razorpay payments, QR-based ticket verification, and real-time notifications using Socket.IO.<br><br>
@@ -55,16 +64,9 @@ Passionate about writing clean, maintainable code, improving application perform
 
 ---
 
-### ZENT – E-commerce Application
-Furniture e-commerce platform with product listing, cart, wishlist, secure checkout, and complete order lifecycle management.  
-**Tech:** React.js, Node.js, Express.js, MongoDB, Razorpay  
-🔗 GitHub: [https://github.com/shhanifff/ZENT-server](https://github.com/shhanifff/ZENT-server)  
-🔴 Live: [https://zent-client.vercel.app/](https://zent-client.vercel.app/)
-
----
-
 ### Ferrari Landing Intro Page
-Premium, responsive landing intro page focused on modern UI/UX, smooth layout, and brand-style presentation.  
+• Designed and developed a premium responsive landing page with modern UI/UX.<br><br>
+• Focused on performance optimization, accessibility, and responsive design.<br><br>
 **Tech:** Next.js, React.js, Tailwind CSS  
 🔗 GitHub: [https://github.com/your-repo-link](https://github.com/shhanifff/ferrari) <br/>
 🔴 Live: [https://ferrari-beta.vercel.app](https://ferrari-beta.vercel.app/)
