@@ -26,9 +26,12 @@ Passionate about writing clean, maintainable code, improving application perform
 ## Featured Projects
 
 ### Clinibook – Hospital Management System
-• MERN stack real estate platform featuring user authentication, role-based access, real-time chat, admin dashboard, and Stripe payment integration.  
-**Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Stripe  
-🔗 GitHub: [https://github.com/your-repo-link](https://github.com/eestate/eestate/tree/main)
+• Developed a scalable Hospital Management System with role-based portals for Admin, Doctors, Patients, Labs, and Pharmacy.
+• Built secure REST APIs with JWT Authentication and Role-Based Access Control (RBAC).
+• Improved backend performance and reduced API response time by approximately 20%.
+• Designed responsive dashboards and streamlined hospital operations.
+**Tech:** Next.js, Node.js, Express.js, MongoDB, Socket.IO, Chart.js  
+🔴 Live: [https://zent-client.vercel.app/](https://portal.fathimahealthcare.in/)
 
 ---
 
