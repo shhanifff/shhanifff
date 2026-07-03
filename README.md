@@ -23,10 +23,10 @@ Passionate about writing clean, maintainable code, improving application perform
 [![](https://visitcount.itsvg.in/api?id=shhanifff&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 💼 Projects
+## Featured Projects
 
-### Estate – Real Estate Web Application
-MERN stack real estate platform featuring user authentication, role-based access, real-time chat, admin dashboard, and Stripe payment integration.  
+### Clinibook – Hospital Management System
+# - MERN stack real estate platform featuring user authentication, role-based access, real-time chat, admin dashboard, and Stripe payment integration.  
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Stripe  
 🔗 GitHub: [https://github.com/your-repo-link](https://github.com/eestate/eestate/tree/main)
 
