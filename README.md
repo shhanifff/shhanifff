@@ -1,5 +1,11 @@
 # 💫 About Me:
-MERN Stack Developer with a strong frontend focus, experienced in building responsive and scalable web applications using React.js, Next.js, Node.js, Express.js, and MongoDB. Skilled in REST API integration, authentication, real-time features, and modern UI development. Passionate about clean code, performance optimization, and delivering user-focused solutions.<br><br>
+Hi, I'm Mohammed Shanif
+
+MERN Stack Developer with 1.6+ years of experience building scalable, responsive, and production-ready web applications across Healthcare, EdTech, E-Commerce, and Event Management domains.
+
+Experienced in developing modern web applications using React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript (ES6+), and Tailwind CSS. Strong understanding of REST APIs, JWT Authentication, Role-Based Access Control (RBAC), Payment Gateway Integration (Razorpay & Stripe), Real-Time Applications (Socket.IO), and Responsive UI Development.
+
+Passionate about writing clean, maintainable code, improving application performance, and delivering user-focused digital solutions using Agile development practices.<br><br>
 
 
 ## 🌐 Socials:
