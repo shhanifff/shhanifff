@@ -35,6 +35,16 @@ Passionate about writing clean, maintainable code, improving application perform
 
 ---
 
+### Ancraze – Learning Management System
+• Developed and maintained backend REST APIs for a mobile-based Learning Management System.<br><br>
+• Built secure authentication, authorization, and role-based access for Super Admin, Admin, Trainers, and Students.<br><br>
+• Integrated WhatsApp API and designed scalable MongoDB data models to support the mobile application.<br><br>
+• Collaborated with the mobile development team to deliver secure, reliable, and production-ready backend services using Agile practices.<br><br>
+**Tech:** Node.js • Express.js • MongoDB • REST APIs
+
+---
+
+
 ### Ticketa – Event Ticket Booking System
 Full-stack event booking application with Razorpay payments, QR-based ticket confirmation, real-time notifications, and secure authentication.  
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Razorpay  
