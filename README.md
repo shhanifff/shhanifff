@@ -67,7 +67,7 @@ Passionate about writing clean, maintainable code, improving application perform
 ### Ferrari Landing Intro Page
 • Designed and developed a premium responsive landing page with modern UI/UX.<br><br>
 • Focused on performance optimization, accessibility, and responsive design.<br><br>
-**Tech:** Next.js, React.js, Tailwind CSS  
+**Tech:** Next.js, React.js, Tailwind CSS<br><br>
 🔗 GitHub: [https://github.com/your-repo-link](https://github.com/shhanifff/ferrari) <br/>
 🔴 Live: [https://ferrari-beta.vercel.app](https://ferrari-beta.vercel.app/)
 
