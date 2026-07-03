@@ -31,7 +31,7 @@ Passionate about writing clean, maintainable code, improving application perform
 • Improved backend performance and reduced API response time by approximately 20%.<br><br>
 • Designed responsive dashboards and streamlined hospital operations.<br><br>
 **Tech:** Next.js, Node.js, Express.js, MongoDB, Socket.IO, Chart.js  
-🔴 Live: [https://zent-client.vercel.app/](https://portal.fathimahealthcare.in/)
+🔴 Live: [https://portal.fathimahealthcare.in](https://portal.fathimahealthcare.in/)
 
 ---
 
